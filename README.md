@@ -48,7 +48,7 @@ Tags can also have attributes applied to them. These can be thought of as modify
 
 #Tag Nesting and Whitespace
 Bad indentation
-```
+```html
 <html>
 <head>
 <title>The end of the world as we know it</title> 
