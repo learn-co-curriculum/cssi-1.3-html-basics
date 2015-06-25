@@ -29,7 +29,8 @@ HTML is the foundational technology for the Internet, every one of your favorite
 +	`mkdir css`: creates a css directory “my_website”
 +	`touch index.html`: creates a html file inside “my_website”
 +	`subl index.html`: Opens index.html in sublime
-+	```
++  Copy the boiler plate code below and you will have your first html page!
+```
 <!doctype html>
 <html>
   <head>
@@ -37,7 +38,7 @@ HTML is the foundational technology for the Internet, every one of your favorite
    <body>
   </body>
 </html>
-```: You now have an empty html page!
+```
 
 #Tag syntax
 ```<tag> .... CONTENT GOES HERE .... </tag>```
