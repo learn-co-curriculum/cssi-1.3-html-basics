@@ -8,19 +8,19 @@ languages: html
 #Objectives:
 +	Structure an html page using doctype, html, head and body tags
 +	Explain what goes into the head of the document
-+	Add text to a page using p and h1 tags
++	Add text to a page using `p` and `h1` tags
 +	Add images using img tag
-+	Add links using <a> tags and understand the difference between relative and absolute paths
++	Add links using `<a>` tags and understand the difference between relative and absolute paths
 +	Create multiple pages and link them
-+	Use styling tags like <em><strong><div> and <span>
-+	Create lists with ul, ol, and li
++	Use styling tags like `<em>` `<strong>` `<div>` and `<span>`
++	Create lists with `ul`, `ol`, and `li`
 
 
 #Why Should You Care?
 HTML is the foundational technology for the Internet, every one of your favorite websites is HTML at its core. Today you are going to learn how to create an HTML site from scratch. And create your own styles for your personal web page.
 
 #Code along Setup
-+	```Cmd+space```: opens your spotlight search.
++	`Cmd+space`: opens your spotlight search.
 +	Type ```Terminal``` and press enter: opens your command line
 +	```mkdir development```: Creates the “development” directory where you will keep all of your projects
 +	```cd development```: goes inside development directory
