@@ -41,19 +41,35 @@ HTML is the foundational technology for the Internet, every one of your favorite
 ```
 
 #Tag syntax
-```<tag> .... CONTENT GOES HERE .... </tag>```
+In the HTML syntax, most elements are written with a start tag and an end tag, with the content in between. An HTML tag is composed of the name of the element, surrounded by angle brackets. An end tag  has a slash after the opening angle bracket.
+`<tag> .... CONTENT GOES HERE .... </tag>`
 Tags can also have attributes applied to them. These can be thought of as modifying or providing additional information to a tag.
-<tag attribute="attribute value">  .... CONTENT GOES HERE .... </tag>
+`<tag attribute="attribute value">  .... CONTENT GOES HERE .... </tag>`
 
 #Tag Nesting and Whitespace
-
 Bad indentation
-<html><head><title>The end of the world as we know it</title> </head><body><p> Some text about things</p></body>
+```
+<html>
+<head>
+<title>The end of the world as we know it</title> 
+</head>
+<body>
+<p> Some text about things</p>
+</body>
+```
 This is not only confusing but can also make it harder to find errors. Can you spot the missing tag?
 
 Good indentation
-<html>   <head>     <title>       The end of the world as we know it     </title>   </head>   <body>     <p>       Some text about things     </p>   </body>
-
+```
+<html> 
+  <head> 
+      <title> The end of the world as we know it </title> 
+  </head>
+   <body> 
+      <p> Some text about things</p>
+  </body>
+```
+How about now? Is it easier to tell where the missing tag is? Proper indentation helps developers find errors!
 
 Types of Tags:
 Headers
