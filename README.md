@@ -71,32 +71,56 @@ Good indentation
 ```
 How about now? Is it easier to tell where the missing tag is? Proper indentation helps developers find errors!
 
-Types of Tags:
-Headers
-Headers tell your visitors what your site is about. Usually, the main title of pages uses the <h1> tag.
+#Types of Tags:
++ Headers
+Headers tell your visitors what your site is about. Usually, the main title of pages uses the `<h1>` tag.
 
 Netflix might use headers like this:
+```
+<!DOCTYPE html>
+ <body>
+   <h1>Netflix</h1>
+   <h2>Top Picks For You</h2>
+   <!-- your top picks would be here! --> 
+  <h3>TV Shows</h3>
+   <!-- TV Shows would be here! -->
+   <h3>Comedies</h3> 
+  <!-- Comedies here! -->
+   <h3>Horror</h3>
+   <!-- Horror Movies here! --> 
+</body>
+```
 
-<!DOCTYPE html> <body>   <h1>Netflix</h1>   <h2>Top Picks For You</h2>   <!-- your top picks would be here! -->   <h3>TV Shows</h3>   <!-- TV Shows would be here! -->   <h3>Comedies</h3>   <!-- Comedies here! -->   <h3>Horror</h3>   <!-- Horror Movies here! --> </body>
++ Other Tags
+	•	`<p>` tags, delineate paragraph text
+	•	`<strong>` will make any text contained within bold
+	•	`<em>` will italicize text or add emphasis
 
-Other Tags
-	•	<p> tags, delineate paragraph text
-	•	<strong> will make any text contained within bold
-	•	<em> will italicize text or add emphasis
++ Lists
+	•	Bullet point lists start with `<ul>` for unordered list
+	•	Numbered lists start with `<ol>` for ordered list
+	•	The actual list items go between `<li>` tags for, you guessed it, list items
 
-Lists
-	•	Bullet point lists start with <ul> for unordered list
-	•	Numbered lists start with <ol> for ordered list
-	•	The actual list items go between <li> tags for, you guessed it, list items
-<ul>   <li>item with bullet point</li>   <li>2nd item with bullet point</li>   <li>another list item</li> </ul>  <ol>   <li>Numbered item</li>   <li>List item #2</li>   <li>Third list item</li> </ol>
+```
+<ul>
+   <li>item with bullet point</li>
+   <li>2nd item with bullet point</li>
+   <li>another list item</li> 
+</ul>
 
-Links
-Links use an <a> tag, which stands for anchor. If you wanted a link to Google it would look like this:
-<a href="http://www.google.com">Super secret link</a>
+  <ol>
+   <li>Numbered item</li> 
+  <li>List item #2</li> 
+  <li>Third list item</li>
+ </ol>
+```
++ Links
+Links use an `<a>` tag, which stands for anchor. If you wanted a link to Google it would look like this:
+`<a href="http://www.google.com">Super secret link</a>`
 
-Images
-Images use an <img> tag to embed an image in a webpage.
-<img src="your_image_location">
++ Images
+Images use an `<img>` tag to embed an image in a webpage.
+`<img src="your_image_location">`
 
-Conclusion / So What?
+#Conclusion / So What?
 HTML allows us to define and label the content of our page. All modern browsers have implemented the same specification for how to display content written with html syntax. Now, you have control over how content is displayed, by naming the parts in the structure of your document.
