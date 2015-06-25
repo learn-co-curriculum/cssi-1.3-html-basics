@@ -30,7 +30,7 @@ HTML is the foundational technology for the Internet, every one of your favorite
 +	`touch index.html`: creates a html file inside “my_website”
 +	`subl index.html`: Opens index.html in sublime
 +  Copy the boiler plate code below and you will have your first html page!
-```
+```html
 <!doctype html>
 <html>
   <head>
@@ -60,7 +60,7 @@ Bad indentation
 This is not only confusing but can also make it harder to find errors. Can you spot the missing tag?
 
 Good indentation
-```
+```html
 <html> 
   <head> 
       <title> The end of the world as we know it </title> 
@@ -76,7 +76,7 @@ How about now? Is it easier to tell where the missing tag is? Proper indentation
 Headers tell your visitors what your site is about. Usually, the main title of pages uses the `<h1>` tag.
 
 Netflix might use headers like this:
-```
+```html
 <!DOCTYPE html>
  <body>
    <h1>Netflix</h1>
@@ -101,7 +101,7 @@ Netflix might use headers like this:
 	2.	Numbered lists start with `<ol>` for ordered list
 	3.	The actual list items go between `<li>` tags for, you guessed it, list items
 
-```
+```html
 <ul>
    <li>item with bullet point</li>
    <li>2nd item with bullet point</li>
