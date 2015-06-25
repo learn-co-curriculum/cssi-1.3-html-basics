@@ -21,16 +21,21 @@ HTML is the foundational technology for the Internet, every one of your favorite
 
 #Code along Setup
 +	`Cmd+space`: opens your spotlight search.
-+	Type ```Terminal``` and press enter: opens your command line
-+	```mkdir development```: Creates the “development” directory where you will keep all of your projects
-+	```cd development```: goes inside development directory
-+	```mkdir my_website```: creates a directory called “my_website”
-+	```cd my_website```:goes inside “my_website”
-+	```mkdir css```: creates a css directory “my_website”
-+	```touch index.html```: creates a html file inside “my_website”
-+	```subl index.html```: Opens index.html in sublime
-+	```<!doctype html><html> <head></head> <body></body>
-	</html>```: You now have an empty html page!
++	Type `Terminal` and press enter: opens your command line
++	`mkdir development`: Creates the “development” directory where you will keep all of your projects
++	`cd development`: goes inside development directory
++	`mkdir my_website`: creates a directory called “my_website”
++	`cd my_website`:goes inside “my_website”
++	`mkdir css`: creates a css directory “my_website”
++	`touch index.html`: creates a html file inside “my_website”
++	`subl index.html`: Opens index.html in sublime
++	```<!doctype html>
+<html>
+<head>
+</head>
+ <body>
+</body>
+</html>```: You now have an empty html page!
 
 #Tag syntax
 ```<tag> .... CONTENT GOES HERE .... </tag>```
