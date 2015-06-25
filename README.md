@@ -92,14 +92,14 @@ Netflix might use headers like this:
 ```
 
 + Other Tags
-	•	`<p>` tags, delineate paragraph text
-	•	`<strong>` will make any text contained within bold
-	•	`<em>` will italicize text or add emphasis
+	1.	`<p>` tags, delineate paragraph text
+	2.	`<strong>` will make any text contained within bold
+	3.	`<em>` will italicize text or add emphasis
 
 + Lists
-	•	Bullet point lists start with `<ul>` for unordered list
-	•	Numbered lists start with `<ol>` for ordered list
-	•	The actual list items go between `<li>` tags for, you guessed it, list items
+	1.	Bullet point lists start with `<ul>` for unordered list
+	2.	Numbered lists start with `<ol>` for ordered list
+	3.	The actual list items go between `<li>` tags for, you guessed it, list items
 
 ```
 <ul>
@@ -122,5 +122,9 @@ Links use an `<a>` tag, which stands for anchor. If you wanted a link to Google 
 Images use an `<img>` tag to embed an image in a webpage.
 `<img src="your_image_location">`
 
-#Conclusion 
+#Conclusion
 HTML allows us to define and label the content of our page. All modern browsers have implemented the same specification for how to display content written with html syntax. Now, you have control over how content is displayed, by naming the parts in the structure of your document.
+
+#Personal Webpage Lab
+You are now ready to add html onto your personal webpage lab
+<a href="https://github.com/learn-co-curriculum/cssi-1.4-html--personal-webpage-lab">Personal Webpage Lab</a>
