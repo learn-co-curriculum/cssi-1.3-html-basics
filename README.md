@@ -122,5 +122,5 @@ Links use an `<a>` tag, which stands for anchor. If you wanted a link to Google 
 Images use an `<img>` tag to embed an image in a webpage.
 `<img src="your_image_location">`
 
-#Conclusion / So What?
+#Conclusion 
 HTML allows us to define and label the content of our page. All modern browsers have implemented the same specification for how to display content written with html syntax. Now, you have control over how content is displayed, by naming the parts in the structure of your document.
