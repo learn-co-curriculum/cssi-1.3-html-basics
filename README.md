@@ -15,30 +15,8 @@ languages: html
 +	Use styling tags like `<em>` `<strong>` `<div>` and `<span>`
 +	Create lists with `ul`, `ol`, and `li`
 
-
 #Why Should You Care?
 HTML is the foundational technology for the Internet, every one of your favorite websites is HTML at its core. Today you are going to learn how to create an HTML site from scratch. And create your own styles for your personal web page.
-
-#Code along Setup
-+	`Cmd+space`: opens your spotlight search.
-+	Type `Terminal` and press enter: opens your command line
-+	`mkdir development`: Creates the “development” directory where you will keep all of your projects
-+	`cd development`: goes inside development directory
-+	`mkdir my_website`: creates a directory called “my_website”
-+	`cd my_website`:goes inside “my_website”
-+	`mkdir css`: creates a css directory “my_website”
-+	`touch index.html`: creates a html file inside “my_website”
-+	`subl index.html`: Opens index.html in sublime
-+  Copy the boiler plate code below and you will have your first html page!
-```
-<!doctype html>
-<html>
-  <head>
-  </head>
-   <body>
-  </body>
-</html>
-```
 
 #Tag syntax
 In the HTML syntax, most elements are written with a start tag and an end tag, with the content in between. An HTML tag is composed of the name of the element, surrounded by angle brackets. An end tag  has a slash after the opening angle bracket.
