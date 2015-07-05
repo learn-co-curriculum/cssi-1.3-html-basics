@@ -41,9 +41,10 @@ HTML is the foundational technology for the Internet, every one of your favorite
 #Tag syntax
 HTML is made up of building blocks called "elements". You've already seen one, the <title> element. Elements are typically made up of an "opening tag", a "closing tag", and some content in between. Here's an example:
 
-`<tag> .... CONTENT GOES HERE .... </tag>`
+``<tag> .... CONTENT GOES HERE .... </tag>``
 
 Tags can also have attributes applied to them. Different elements can have different attributes. All elements can have class and id attributes to help differentiate them from other elements.
+
 ```
 <h1 id="title">The Gettysburg Address</h1>
 
@@ -51,20 +52,21 @@ Tags can also have attributes applied to them. Different elements can have diffe
 
 <p class="about">Delivered by Abraham Lincoln on November 19, 1863.</p>
 ```
+
 + ID - identifies a unique element on the page and there can only be one element that has that id.
 
 + Class- Identifies and group elements that may occur more than once.
 
 Some elements do not have closing tags; these are typically elements that have no text content.
 
-For example, the <img> element points to an image, but doesn't have any text inside.
+For example, the ``<img>`` element points to an image, but doesn't have any text inside.
 
-<img src="kittens.jpg" width="80" height="100" alt="Photo of kittens playing">
+``<img src="kittens.jpg" width="80" height="100" alt="Photo of kittens playing">``
 
 This tag has attributes (src, width, height, alt), but no closing tag.
 
 #Tag Nesting and Whitespace
-he browser mostly ignores the whitespace in your HTML page. If you have text on different lines or with lots of spaces in between, it will all get replaced by a single space. This is really helpful for making our HTML file readable - we can hit Enter as many times as we need to, and the browser will ignore it!
+The browser mostly ignores the whitespace in your HTML page. If you have text on different lines or with lots of spaces in between, it will all get replaced by a single space. This is really helpful for making our HTML file readable - we can hit Enter as many times as we need to, and the browser will ignore it!
 
 It also forces us to use other ways to put whitespace into our pages, if we want it. We'll go in depth about styling and positioning when we cover CSS, but for now, there are two whitespace tricks to know.
 
