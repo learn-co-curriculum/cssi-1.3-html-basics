@@ -40,8 +40,9 @@ HTML is the foundational technology for the Internet, every one of your favorite
 
 #Tag syntax
 HTML is made up of building blocks called "elements". You've already seen one, the <title> element. Elements are typically made up of an "opening tag", a "closing tag", and some content in between. Here's an example:
-
-``<tag> .... CONTENT GOES HERE .... </tag>``
+```
+<tag> .... CONTENT GOES HERE .... </tag>
+```
 
 Tags can also have attributes applied to them. Different elements can have different attributes. All elements can have class and id attributes to help differentiate them from other elements.
 
