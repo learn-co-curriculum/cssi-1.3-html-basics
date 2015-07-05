@@ -39,7 +39,7 @@ HTML is the foundational technology for the Internet, every one of your favorite
 ```
 
 #Tag syntax
-HTML is made up of building blocks called "elements". You've already seen one, the <title> element. Elements are typically made up of an "opening tag", a "closing tag", and some content in between. Here's an example:
+HTML is made up of building blocks called "elements". You've already seen one, the ``<title>`` element. Elements are typically made up of an "opening tag", a "closing tag", and some content in between. Here's an example:
 ```
 <tag> .... CONTENT GOES HERE .... </tag>
 ```
