@@ -62,7 +62,9 @@ It turns out that there's a bit more going on behind the scenes. Sometimes, you'
 In our version, the <html>, <head>, and <body> elements are all implied, since we  left them out. They let the browser know how to treat different elements on the page.
 
 #Elements and Tags
+<<<<<<< HEAD
 HTML is made up of building blocks called "elements". You've already seen one, the `<title>` element. Elements are typically made up of an "opening tag", a "closing tag", and some content in between. Here's another example:
+
 ```html
 <h1>All About Honey Badgers</h1>
 ```
