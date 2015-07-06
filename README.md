@@ -135,13 +135,15 @@ Images use an `<img>` tag to embed an image in a webpage.
 HTML is not the easiest to read. It's designed to be clear for the browser to understand, but not always for humans. However, there are some ways to make it easier for you and others to read your code. Following the guidelines will help make your code easier to understand and debug.
 
 Bad indentation:
+```
 <html><head><title>The end of the world as we know it</title>
 </head><body><p>
 Some text about things</p></body>
-
+```
 This is confusing to read, and makes it harder to find errors. Can you spot the missing tag?
 
 Good indentation:
+```
 <html>
   <head>
     <title>
@@ -153,7 +155,7 @@ Good indentation:
       Some text about things
     </p>
   </body>
-
+```
 With better indentation, the missing tag is easy to spot!
 
 #Comments
