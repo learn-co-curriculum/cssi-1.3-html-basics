@@ -16,7 +16,7 @@ languages: html
 +	Create lists with `ul`, `ol`, and `li`
 
 #Why Should You Care?
-HTML is the foundational technology for the Internet, every one of your favorite websites is HTML at its core. Today you are going to learn how to create an HTML site from scratch. And create your own styles for your personal web page.
+HTML is the foundational technology for the Internet, every one of your favorite websites is HTML at its core. Today you are going to learn how to create an HTML site from scratch, and start creating a personal web page.
 
 #Code-Along-Setup
 1. Cmd+space: opens your spotlight search.
@@ -24,7 +24,7 @@ HTML is the foundational technology for the Internet, every one of your favorite
 3. Go to “file” and click “new file” to open a new tab
 4. Cmd+space Save as "hello_world.html"
 5. Save the file on your desktop
-6. Copy the boiler plate code below
+6. Copy the boilerplate code below
 
 ```
 <!DOCTYPE html>
@@ -44,7 +44,7 @@ HTML is made up of building blocks called "elements". You've already seen one, t
 <tag> .... CONTENT GOES HERE .... </tag>
 ```
 
-Tags can also have attributes applied to them. Different elements can have different attributes. All elements can have class and id attributes to help differentiate them from other elements.
+Tags can also have attributes. Different elements can have different attributes. All elements can have class and id attributes to help differentiate them from other elements.
 
 ```
 <h1 id="title">The Gettysburg Address</h1>
@@ -178,5 +178,5 @@ Especially if you are doing something complicated, it's helpful to leave notes f
 HTML allows us to define and label the content of our page. All modern browsers have implemented the same specification for how to display content written with html syntax. Now, you have control over how content is displayed, by naming the parts in the structure of your document.
 
 #Personal Webpage Lab
-You are now ready to add html onto your personal webpage lab
+Let's put all this into practice by building a personal webpage
 <a href="https://github.com/learn-co-curriculum/cssi-1.4-html--personal-webpage-lab">Personal Webpage Lab</a>
