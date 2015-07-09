@@ -15,9 +15,9 @@ languages: html
   + Explain what goes into the head of the document
   + Add text to a page using p and h1 tags
   + Add images using img tag
-  + Add links using <a> tags and understand the difference between relative and absolute paths
+  + Add links using ``<a>`` tags and understand the difference between relative and absolute paths
   + Create multiple pages and link them
-  + Use styling tags like <em><strong><div> and <span>
+  + Use styling tags like ``<em>`` ``<strong>`` ``<div>`` and ``<span>``
   + Create lists with ul, ol, and li
   + Understand best practices for tag nesting
   + Understand how to make comments
