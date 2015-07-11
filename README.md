@@ -6,6 +6,7 @@ languages: html
 #HTML Basics
 
 #Prior Knowledge:
++ Intro to CSSI
 + Github account setup
 + Learn.co walkthrough
 
