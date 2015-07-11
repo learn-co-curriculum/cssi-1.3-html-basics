@@ -2,7 +2,7 @@ languages:
   - HTML
   - CSS
 tags:
-  - cssi
+  - cssi, html, css
   - html
   - css
   - git
