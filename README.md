@@ -182,4 +182,3 @@ HTML allows us to define and label the content of our page. All modern browsers 
 
 #Personal Webpage Lab
 You are now ready to add html onto your personal webpage lab
-<a href="https://github.com/learn-co-curriculum/cssi-1.4-html--personal-webpage-lab">Personal Webpage Lab</a>
