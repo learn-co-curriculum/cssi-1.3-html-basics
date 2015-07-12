@@ -39,12 +39,14 @@ As you can tell, we are talking about how this happens in abstract, high-level t
 
 
 #Code-Along-Setup
-1. Cmd+space: opens your spotlight search.
-2. Type “Atom” and press enter
-3. Go to “file” and click “new file” to open a new tab
-4. Cmd+space Save as "practice.html"
-5. Save the file on your desktop
-6. Copy the boiler plate code below
+1. Create a "dev" folder on your desktop
+2. Go inside the "dev" and make a folder called "html"
+2. Cmd+space: opens your spotlight search.
+3. Type “Atom” and press enter
+4. Go to “file” and click “new file” to open a new tab
+5. Cmd+space Save as "practice.html"
+6. Save the file "html" folder in "dev"
+7. Copy the boiler plate code below
 
 ```
 <!DOCTYPE html>
