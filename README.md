@@ -38,13 +38,13 @@ In talking about the internet, we use a metaphor of clients and servers - it hel
 As you can tell, we are talking about how this happens in abstract, high-level terms. You can spend years studying the fine detail of how the internet works. After making sure we have everything set up right, we'll get started with some core internet technologies - HTML and CSS.
 
 
-#Code-Along-Setup
+#Set Up Directions
 1. Create a "dev" folder on your desktop
 2. Go inside the "dev" and make a folder called "html"
 2. Cmd+space: opens your spotlight search.
 3. Type “Atom” and press enter
 4. Go to “file” and click “new file” to open a new tab
-5. Cmd+space Save as "practice.html"
+5. Cmd+S Save as "practice.html"
 6. Save the file "html" folder in "dev"
 7. Copy the boiler plate code below
 
