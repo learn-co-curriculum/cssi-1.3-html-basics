@@ -77,17 +77,17 @@ Attribute: Different elements can have different attributes. All elements can ha
 #Tag Nesting and Whitespace
 The browser mostly ignores the whitespace in your HTML page.
 
-br is the line break tag - it's like pressing enter on the keyboard.
+`<br>` is the line break tag - it's like pressing enter on the keyboard.
 ```
 <p> I could use a <br> break</p>
 ```
-&nbsp; is the html entity name for a no-break space. If you want to put extra spaces in between words, you can use it like this:
+`&nbsp;` is the html entity name for a no-break space. If you want to put extra spaces in between words, you can use it like this:
 ```
 <p> I need a little &nbsp; &nbsp; &nbsp; space </p>
 ```
 
 #Types of Tags:
-+ Headers
++ Headers  
 Headers tell your visitors what your site is about. Usually, the main title of pages uses the `<h1>` tag.
 
 Netflix might use headers like this:
@@ -129,11 +129,11 @@ Netflix might use headers like this:
   <li>Third list item</li>
  </ol>
 ```
-+ Links
++ Links  
 Links use an `<a>` tag, which stands for anchor. If you wanted a link to Google it would look like this:
 `<a href="http://www.google.com">Super secret link</a>`
 
-+ Images
++ Images  
 Images use an `<img>` tag to embed an image in a webpage.
 `<img src="your_image_location">`
 
