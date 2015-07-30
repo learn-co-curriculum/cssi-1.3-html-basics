@@ -1,8 +1,4 @@
----
-tags: cssi, basic html
-level: 1
-languages: html
----
+
 #HTML Basics
 
 #Prior Knowledge:
