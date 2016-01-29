@@ -181,4 +181,4 @@ HTML allows us to define and label the content of our page. All modern browsers 
 #Personal Webpage Lab
 You are now ready to add html onto your personal webpage lab
 
-<a href='https://learn.co/lessons/cssi-1.3-html-basics' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1.3-html-basics' title='HTML Basics'>HTML Basics</a> on Learn.co and start learning to code for free.</p>
